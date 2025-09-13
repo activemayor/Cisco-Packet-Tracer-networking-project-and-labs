@@ -7,4 +7,3 @@ This repository contains a Cisco Packet Tracer project showcasing network topolo
 - Demonstrates **routing, switching, and VLAN configuration**
 - Useful for **networking labs, study, and practice**
 
-## 📂 Repository Structure
